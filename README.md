@@ -1,7 +1,7 @@
 # SpaceCatchers
 Space themed ball catching game
 
-The objective is to catch the correct balls and score the highest.
+The objective is to catch the correct balls and score the highest within 60 seconds.
 
 There are green blue and red balls which gives positive points.
 Black balls gives negative points.
